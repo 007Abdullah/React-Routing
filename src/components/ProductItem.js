@@ -19,7 +19,7 @@ function ProductItem() {
             <div className="link">
                 <React.Fragment>
                     <h2>{shoe.name}</h2>
-                    <img src={shoe.img} height={150} alt="shoes" />
+                    <img src={shoe.img} height={500} alt="shoes" />
                 </React.Fragment>
             </div>
         </React.Fragment>
